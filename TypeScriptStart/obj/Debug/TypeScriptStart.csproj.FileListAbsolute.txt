@@ -1,0 +1,8 @@
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\bin\TypeScriptStart.dll.config
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\bin\TypeScriptStart.dll
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\bin\TypeScriptStart.pdb
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\obj\Debug\TypeScriptStart.csproj.CoreCompileInputs.cache
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\obj\Debug\TypeScriptStart.dll
+C:\DEV_VDU\training\typescript-start\TypeScriptStart\obj\Debug\TypeScriptStart.pdb
